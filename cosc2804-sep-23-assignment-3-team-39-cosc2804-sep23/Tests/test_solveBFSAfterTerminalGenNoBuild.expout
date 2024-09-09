@@ -1,0 +1,56 @@
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Enhancements Menu
+5) Show Team Information
+6) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Enter the length and width of the maze:
+Enter the maze structure:
+
+Maze read successfully
+**Printing Maze**
+BasePoint: (118, 72, 158)
+Structure:
+xxxxxxx
+...x.xx
+xx...xx
+x..xx.x
+xx....x
+x..xxxx
+xxxxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Enhancements Menu
+5) Show Team Information
+6) Exit
+
+Enter Menu item to continue:
+
+------------- ENHANCEMENTS -------------
+1) Create maze without flattening terrain
+2) Find shortest path to exit in maze
+3) Back
+
+Enter Menu item to continue:
+CALCULATING SHORTEST PATH...
+SHORTEST PATH FOUND!
+GENERATING PATH...
+SOLVED BFS

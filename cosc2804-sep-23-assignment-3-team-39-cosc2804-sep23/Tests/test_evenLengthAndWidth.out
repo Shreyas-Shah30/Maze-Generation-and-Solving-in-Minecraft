@@ -1,0 +1,47 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Enhancements Menu
+5) Show Team Information
+6) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of the maze:
+Enter the length and width of the maze:
+Length and width should be odd numbers.
+Maze generated successfully
+**Printing Maze**
+BasePoint: (4013, 64, 4203)
+Structure:
+xxxxxxx
+......x
+xxxxx.x
+x...x.x
+x.x.x.x
+x.x...x
+xxxxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Enhancements Menu
+5) Show Team Information
+6) Exit
+
+Enter Menu item to continue: 
+The End!
+
