@@ -8,9 +8,9 @@ Team Number: 39
 
 ## GitHub User Mapping: ##
 - Shreyas-Shah30
-- HarrisonOrosz
-- TH-WACK (Leo Park)
-- Lalaladddd (Daniel Lienert)
+- HarrisonOrosz (https://github.com/HarrisonOrosz)
+- TH-WACK (Leo Park - https://github.com/TH-WACK)
+- Lalaladddd (Daniel Lienert - https://github.com/Lalaladddd)
 
 ## Contributions: ##
 ### Shreyas Shah ### 
